@@ -5,7 +5,7 @@
 
 
 void quenteOuFrio() {
-    int numeroSecreto = 42; // Exemplo fixo
+    int numeroSecreto = 42;
     int palpite;
     std::cout << "Adivinhe o numero secreto: ";
     std::cin >> palpite;
